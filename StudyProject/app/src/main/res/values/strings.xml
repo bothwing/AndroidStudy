@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">StudyProject</string>
+
+    <string name="main_menu1_title">study1</string>
+    <string name="main_menu1_content">RecyclerView<![CDATA[&]]>CardView</string>
+</resources>
